@@ -12,6 +12,12 @@
 - 차량 정보 기반 가격 예측
 - 손상 정도에 따른 감가율 적용
 
+## 모델 훈련 관련 Colab ipynb 파일
+
+- 가격 예측 모델 : https://colab.research.google.com/drive/18Z4rwyWq1vD4xuHeV6xeMM4d9g8d3Wcb?usp=sharing
+- 이미지 손상 탐지 모델 : https://colab.research.google.com/drive/1-OHylgW5yMJOtUGZWOdxJGAFY_2a0fwP?usp=sharing
+
+
 ## 기술 스택
 
 - FastAPI
@@ -59,3 +65,7 @@ uvicorn app:app --reload
 ## 라이선스
 
 [라이선스 정보 입력] 
+
+## 참고자료 
+- 회고록 :
+- 블로그 : 
