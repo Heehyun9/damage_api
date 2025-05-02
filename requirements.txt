@@ -1,0 +1,49 @@
+#requirements.txt
+lightgbm==4.1.0
+
+# FastAPI
+fastapi==0.104.1
+uvicorn==0.24.0
+pillow==10.1.0
+
+# PyTorch
+torch==2.1.1
+torchvision==0.16.1
+torchaudio
+
+# Server
+pandas
+httpx
+tiktoken
+typing-extensions
+
+# LangChain
+pydantic==2.11.1
+pydantic-settings==2.8.1
+pydantic_core==2.33.0
+langchain==0.3.23
+langchain-chroma==0.2.3
+langchain-community==0.3.20
+langchain-core==0.3.52
+langchain-openai==0.3.12
+langchain-text-splitters==0.3.8
+langchain-upstage==0.6.0
+
+# Chroma DB
+chromadb==0.6.3
+
+# OpenAI SDK
+openai==1.70.0
+
+# ML & Utils
+joblib==1.3.2
+jinja2
+scikit-learn==1.3.2
+python-multipart==0.0.6
+numpy==1.26.2
+scipy==1.11.4
+
+#  CORS
+starlette
+
+
