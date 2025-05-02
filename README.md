@@ -19,6 +19,8 @@
 - LightGBM
 - scikit-learn
 - PIL
+- Python
+
 
 ## 설치 방법
 
