@@ -3,7 +3,8 @@
 - 이 프로젝트는 차량 이미지를 분석하여 손상 여부를 판단하고, 차량 정보를 기반으로 예상 가격을 계산하는 API를 제공합니다.
 - "TrustRide_AI" 라는 중고차 거래 플랫폼을 구성하고 있는 AI 기능중 하나 입니다. 
 - 실제 구현방식을 알고 싶으시다면 아래의 링크를 통해 보실 수 있습니다.
-- 참고 (TrustRide_AI Repo : - https://github.com/TrustRide/TrustRide_AI.git) 
+- 참고 (TrustRide_AI Repo : - https://github.com/TrustRide/TrustRide_AI.git)
+- cursor AI 사용
 
 ## 주요 기능
 
